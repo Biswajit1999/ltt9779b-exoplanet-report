@@ -1,10 +1,20 @@
-# LTT 9779 b — Real TESS Transit Report
+# LTT 9779 b: A Reflective Survivor in the Hot-Neptune Desert
 
+<!-- TARGET-IDENTITY-START -->
+<p align="center">
+  <img src="assets/artist_concept.webp" alt="Artist's interpretation of LTT 9779 b near its host star" width="900">
+</p>
+
+<p align="center"><em>AI-generated artist's interpretation informed by the measured system properties; not a direct image.</em></p>
+
+**Hot Neptune · reflective clouds · Neptune desert**
+
+A rare ultra-hot Neptune surviving where such planets are scarce, analyzed through TESS photometry and placed in the context of its unusually reflective dayside.
+<!-- TARGET-IDENTITY-END -->
 <p align="center">
   <img src="figures/ltt9779b_tess_transit.png" alt="Phase-folded real TESS transit light curve of LTT 9779 b" width="760">
 </p>
 
-One real public TESS SPOC light curve; one historical NASA Exoplanet Archive ephemeris; one timing-adjusted, limb-darkened transit fit.
 
 **[Open the full report](https://biswajit1999.github.io/ltt9779b-exoplanet-report/)** — the live GitHub Pages version.
 
