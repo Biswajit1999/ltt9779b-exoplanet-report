@@ -1,0 +1,2 @@
+pl_name,hostname,ra,dec,pl_orbper,pl_tranmid,pl_trandur,pl_rade,pl_bmasse,pl_eqt,pl_orbsmax,sy_dist,sy_tmag,st_teff,st_rad,st_mass,disc_year,discoverymethod,disc_refname,disc_pubdate,disc_facility
+LTT 9779 b,LTT 9779,358.6688767,-37.6282237,0.792052,2458354.2143,0.3656119,4.72,29.32,1978.0,0.01679,80.4373,9.1031,5443.0,0.949,1.02,2020,Transit,<a refstr=JENKINS_ET_AL_2020 href=https://ui.adsabs.harvard.edu/abs/2020NatAs...4.1148J/abstract target=ref>Jenkins et al. 2020</a>,2020-00,Transiting Exoplanet Survey Satellite (TESS)
