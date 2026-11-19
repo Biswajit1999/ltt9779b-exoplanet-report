@@ -1,0 +1,161 @@
+{
+  "schema": 1,
+  "project": "LTT 9779 b: A Reflective Survivor in the Hot-Neptune Desert",
+  "repository": "https://github.com/Biswajit1999/ltt9779b-exoplanet-report",
+  "files": [
+    {
+      "label": "Data source notes",
+      "path": "data/SOURCE.md",
+      "role": "Data and provenance",
+      "bytes": 2163,
+      "sha256": "fe4565d1df9a8ec7e6443b2044e1a5de1bf78329c8321ca6141743bc8f8e7065",
+      "hash_basis": "LF-normalised text",
+      "format": "MD"
+    },
+    {
+      "label": "System parameters",
+      "path": "data/system_parameters.csv",
+      "role": "Data and provenance",
+      "bytes": 530,
+      "sha256": "7975a78599b8e0bc3e2de0e06aa5b732f76ff79cf1b9eba6750e5513b5127e57",
+      "hash_basis": "LF-normalised text",
+      "format": "CSV",
+      "rows": 1,
+      "columns": 21,
+      "headers": [
+        "pl_name",
+        "hostname",
+        "ra",
+        "dec",
+        "pl_orbper",
+        "pl_tranmid",
+        "pl_trandur"
+      ],
+      "preview": [
+        [
+          "LTT 9779 b",
+          "LTT 9779",
+          "358.6688767",
+          "-37.6282237",
+          "0.792052",
+          "2458354.2143",
+          "0.3656119"
+        ]
+      ]
+    },
+    {
+      "label": "Tess2018234235059 s0002 0000000183985250 0121 s lc",
+      "path": "data/tess2018234235059-s0002-0000000183985250-0121-s_lc.fits",
+      "role": "Data and provenance",
+      "bytes": 2004480,
+      "sha256": "d8d264184915509dc8df0ebc77ce3d96f252de99759af46b260187a2ee2ebc0b",
+      "hash_basis": "exact bytes",
+      "format": "FITS"
+    },
+    {
+      "label": "Summary statistics",
+      "path": "figures/summary_statistics.csv",
+      "role": "Tables and numerical results",
+      "bytes": 1189,
+      "sha256": "982fb3a307617e3f0569f53e60fd721ba847a824dcbff44e97df95155f241d71",
+      "hash_basis": "LF-normalised text",
+      "format": "CSV",
+      "rows": 36,
+      "columns": 3,
+      "headers": [
+        "quantity",
+        "value",
+        "unit"
+      ],
+      "preview": [
+        [
+          "sector",
+          "2",
+          "TESS sector"
+        ],
+        [
+          "period_days",
+          "0.792052",
+          "days; NASA Exoplanet Archive"
+        ],
+        [
+          "published_duration_hours",
+          "0.3656119",
+          "hours; NASA Exoplanet Archive"
+        ],
+        [
+          "a_over_rstar",
+          "3.80441230769",
+          "fixed from saved a and stellar radius"
+        ]
+      ]
+    },
+    {
+      "label": "Multisector statistics",
+      "path": "figures/multisector_statistics.csv",
+      "role": "Tables and numerical results",
+      "bytes": 349,
+      "sha256": "279481ebace20866d2d12ad8b0f99b316d9ef6941bb85d88c6411755852f9456",
+      "hash_basis": "LF-normalised text",
+      "format": "CSV",
+      "rows": 1,
+      "columns": 13,
+      "headers": [
+        "sector",
+        "filename",
+        "transit_events",
+        "n_points",
+        "transit_supported",
+        "delta_bic",
+        "timing_shift_hours"
+      ],
+      "preview": [
+        [
+          "2",
+          "tess2018234235059-s0002-0000000183985250-0121-s_lc.fits",
+          "33",
+          "2116",
+          "True",
+          "2110.27344",
+          "0.01884505062"
+        ]
+      ]
+    },
+    {
+      "label": "Ltt9779b depth consistency",
+      "path": "figures/ltt9779b_depth_consistency.png",
+      "role": "Figures",
+      "bytes": 59963,
+      "sha256": "b52a234e36571bde94b9288beca0ac56c31e1c5b000991a15404ef1ed6071c14",
+      "hash_basis": "exact bytes",
+      "format": "PNG"
+    },
+    {
+      "label": "Ltt9779b multisector transits",
+      "path": "figures/ltt9779b_multisector_transits.png",
+      "role": "Figures",
+      "bytes": 64551,
+      "sha256": "075161f8d766d8877264affad870c85abfdf54becdbe18c0f29acd41eaebe26a",
+      "hash_basis": "exact bytes",
+      "format": "PNG"
+    },
+    {
+      "label": "Ltt9779b noise diagnostics",
+      "path": "figures/ltt9779b_noise_diagnostics.png",
+      "role": "Figures",
+      "bytes": 87514,
+      "sha256": "9f8d7ef803f7cd46bf209bd27c07fd52bcc6a37510170e6bb9b09eb7c1215dbe",
+      "hash_basis": "exact bytes",
+      "format": "PNG"
+    },
+    {
+      "label": "Ltt9779b tess transit",
+      "path": "figures/ltt9779b_tess_transit.png",
+      "role": "Figures",
+      "bytes": 230318,
+      "sha256": "08a2f16612af6b5d78afe55469ed9ec9313edec2e316c56c3422c5ada7b10dd5",
+      "hash_basis": "exact bytes",
+      "format": "PNG"
+    }
+  ]
+}

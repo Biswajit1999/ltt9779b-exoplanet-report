@@ -1,0 +1,51 @@
+{
+  "project": "LTT 9779 b: A Reflective Survivor in the Hot-Neptune Desert",
+  "repository": "https://github.com/Biswajit1999/ltt9779b-exoplanet-report",
+  "files": [
+    {
+      "label": "Data source notes",
+      "path": "data/SOURCE.md",
+      "role": "Data and provenance"
+    },
+    {
+      "label": "System parameters",
+      "path": "data/system_parameters.csv",
+      "role": "Data and provenance"
+    },
+    {
+      "label": "Tess2018234235059 s0002 0000000183985250 0121 s lc",
+      "path": "data/tess2018234235059-s0002-0000000183985250-0121-s_lc.fits",
+      "role": "Data and provenance"
+    },
+    {
+      "label": "Summary statistics",
+      "path": "figures/summary_statistics.csv",
+      "role": "Tables and numerical results"
+    },
+    {
+      "label": "Multisector statistics",
+      "path": "figures/multisector_statistics.csv",
+      "role": "Tables and numerical results"
+    },
+    {
+      "label": "Ltt9779b depth consistency",
+      "path": "figures/ltt9779b_depth_consistency.png",
+      "role": "Figures"
+    },
+    {
+      "label": "Ltt9779b multisector transits",
+      "path": "figures/ltt9779b_multisector_transits.png",
+      "role": "Figures"
+    },
+    {
+      "label": "Ltt9779b noise diagnostics",
+      "path": "figures/ltt9779b_noise_diagnostics.png",
+      "role": "Figures"
+    },
+    {
+      "label": "Ltt9779b tess transit",
+      "path": "figures/ltt9779b_tess_transit.png",
+      "role": "Figures"
+    }
+  ]
+}
